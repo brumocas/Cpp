@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/calculator_oop.dir/src/main.cpp.o CMakeFiles/calculator_oop.dir/src/logic/Calculator.cpp.o CMakeFiles/calculator_oop.dir/src/interaction/user.cpp.o CMakeFiles/calculator_oop.dir/src/logic/AdvancedCalculator.cpp.o  -o calculator_oop 

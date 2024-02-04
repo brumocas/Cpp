@@ -1,0 +1,3 @@
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/build/CMakeFiles/edit_cache.dir
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/build/CMakeFiles/rebuild_cache.dir
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/build/CMakeFiles/calculator_oop.dir

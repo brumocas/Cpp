@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/interaction/user.h
+
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/logic/AdvancedCalculator.h
+Calculator.h
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/logic/Calculator.h
+
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/logic/Calculator.h
+
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/src/interaction/user.cpp
+../../include/interaction/user.h
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/interaction/user.h
+iostream
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/src/interaction/iostream
+limits
+-
+
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/src/logic/AdvancedCalculator.cpp
+../../include/logic/AdvancedCalculator.h
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/logic/AdvancedCalculator.h
+
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/src/logic/Calculator.cpp
+../../include/logic/Calculator.h
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/logic/Calculator.h
+
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/src/main.cpp
+iostream
+-
+../include/logic/Calculator.h
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/logic/Calculator.h
+../include/logic/AdvancedCalculator.h
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/logic/AdvancedCalculator.h
+../include/interaction/user.h
+/home/bruno/remote/c++/simplecalculatorOOP/simplecalculatoroop-main/calculator_oop/include/interaction/user.h
+

@@ -1,0 +1,3 @@
+/home/bruno/remote/subjects/Msc/PSW/C++/MiniQuestII/dragonsbane-cpp_sol/dragonsbane-main/build/CMakeFiles/rebuild_cache.dir
+/home/bruno/remote/subjects/Msc/PSW/C++/MiniQuestII/dragonsbane-cpp_sol/dragonsbane-main/build/CMakeFiles/edit_cache.dir
+/home/bruno/remote/subjects/Msc/PSW/C++/MiniQuestII/dragonsbane-cpp_sol/dragonsbane-main/build/CMakeFiles/dragonsbane.dir
