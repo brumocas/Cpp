@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\bruco\OneDrive - Universidade do Porto\Professional Life\Code\Windows\cpp\person
+It was created with incompatible generator 'NMake Makefiles'
+
+Please either delete it manually or select another generation directory
